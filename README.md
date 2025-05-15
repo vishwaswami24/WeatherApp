@@ -15,11 +15,6 @@ A sleek and responsive weather application that provides current weather data, f
 🌙 Light/Dark mode toggle (optional)
 
 🛠️ Built With
-HTML5, CSS3, JavaScript (Vanilla)
-or
+HTML5, CSS3, JavaScript
 
-React (if applicable)
-
-Axios or Fetch API
-
-OpenWeatherMap API
+Weatherapi API
