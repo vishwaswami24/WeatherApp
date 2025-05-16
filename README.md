@@ -4,6 +4,7 @@ A sleek and responsive weather application that provides current weather data, f
 
 
 🚀 Features
+
 🌍 Get real-time weather data by city name or your current location
 
 🧭 Display temperature, humidity, wind speed, and weather description
@@ -15,6 +16,7 @@ A sleek and responsive weather application that provides current weather data, f
 🌙 Light/Dark mode toggle (optional)
 
 🛠️ Built With
+
 HTML5, CSS3, JavaScript
 
 Weatherapi API
