@@ -16,6 +16,9 @@ A sleek and responsive weather application that provides current weather data, f
 ## 🛠️ Built With
 
 - HTML5
-* CSS3 
+  
+* CSS3
+  
 + JavaScript
+  
 - Weatherapi API
