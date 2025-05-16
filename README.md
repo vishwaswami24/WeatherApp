@@ -1,6 +1,6 @@
 # 🌤️ WeatherApp
 
-A sleek and responsive weather application that provides current weather data, forecasts, and location-based weather updates using the weatherapi.
+A sleek and responsive weather application that provides current weather data, forecasts, and location-based weather updates using the Weather API.
 
 
 ## 🚀 Features
