@@ -8,7 +8,6 @@ A sleek and responsive weather application that provides current weather data, f
 - 🧭 **Detailed Weather Info**: Displays temperature (in Celsius), weather description, humidity percentage, and wind speed (in mph).
 - 🎨 **Responsive and Modern UI**: Clean, user-friendly interface with a blurred background overlay for better readability.
 - ⚠️ **Error Handling**: Alerts for invalid city names or network issues.
-- 🌙 **Light/Dark Mode Toggle**: Optional feature for theme switching (not implemented in current version).
 
 ## 🛠️ Installation
 
