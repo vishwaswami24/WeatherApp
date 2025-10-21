@@ -23,7 +23,7 @@ async function getWeather() {
     return;
   }
 
-  const url = 'http://api.weatherapi.com/v1/current.json?key=9b52611e39e440108fe151110251405&q=' + city;
+  const url = 'https://api.weatherapi.com/v1/current.json?key=9b52611e39e440108fe151110251405&q=' + city;
 
   try {
     const response = await fetch(url);
@@ -49,3 +49,4 @@ function displayWeather(data) {
     <p>Wind Speed: ${data.current.wind_mph} m/h</p>
   `;
 }
+
